@@ -1,0 +1,168 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "weisisheng",
+      "name": "Vince Fulco",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/47701145?v=4",
+      "profile": "https://github.com/weisisheng",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "BeatPlus",
+      "name": "Manuel Taberna",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/2022256?v=4",
+      "profile": "https://github.com/BeatPlus",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "akshatmittal",
+      "name": "Akshat Mittal",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1667481?v=4",
+      "profile": "https://akshatmittal.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "christianlauer",
+      "name": "christianlauer",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/65625616?v=4",
+      "profile": "https://github.com/christianlauer",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "icy-meteor",
+      "name": "Rahul Suresh",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/22114682?v=4",
+      "profile": "https://linkedin.com/in/rahulsuresh98",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "mbernard",
+      "name": "Miguel Bernard",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1928530?v=4",
+      "profile": "https://blog.miguelbernard.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "marsflow",
+      "name": "Stevan Aji",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7637037?v=4",
+      "profile": "https://github.com/marsflow",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "imtoanle",
+      "name": "Toan Le",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4002252?v=4",
+      "profile": "https://github.com/imtoanle",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "Buda9",
+      "name": "Davor Budimir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1422662?v=4",
+      "profile": "http://davor.pro",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "simhol",
+      "name": "Simon Holdorf",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4987937?v=4",
+      "profile": "https://simonholdorf.com",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "timuster",
+      "name": "Sumit Kumar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2242052?v=4",
+      "profile": "https://github.com/timuster",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "francolamcn",
+      "name": "francolamcn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73523739?v=4",
+      "profile": "https://github.com/francolamcn",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "chancharles",
+      "name": "Charles Chan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60314?v=4",
+      "profile": "https://www.ambrosesoft.com/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "raihanameen",
+      "name": "Raihan Ameen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/36153203?v=4",
+      "profile": "https://raihanameen.github.io",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "andygrunwald",
+      "name": "Andy Grunwald",
+      "avatar_url": "https://avatars.githubusercontent.com/u/320064?v=4",
+      "profile": "http://andygrunwald.com/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "seoxyz",
+      "name": "Hikz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54107458?v=4",
+      "profile": "https://github.com/seoxyz",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "huydhoang",
+      "name": "Huy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8493044?v=4",
+      "profile": "https://huydhoang.com",
+      "contributions": [
+        "bug"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "next-cms-ghost",
+  "projectOwner": "styxlab",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
